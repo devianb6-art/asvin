@@ -1,3 +1,4 @@
+
 def hitung_persegi():
     try:
         sisi = float(input("Masukkan panjang sisi persegi: "))
